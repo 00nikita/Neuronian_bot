@@ -1,0 +1,5 @@
+python-telegram-bot==22.6
+neo4j==5.14.0
+httpx==0.28.1
+requests>=2.0.0
+python-dotenv>=1.0.0
